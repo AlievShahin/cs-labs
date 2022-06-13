@@ -1,0 +1,6 @@
+C:\Users\zagor\source\repos\main-cs\model-1\bin\Debug\model-1.dll
+C:\Users\zagor\source\repos\main-cs\model-1\bin\Debug\model-1.pdb
+C:\Users\zagor\source\repos\main-cs\model-1\obj\Debug\model-1.csproj.AssemblyReference.cache
+C:\Users\zagor\source\repos\main-cs\model-1\obj\Debug\model-1.csproj.CoreCompileInputs.cache
+C:\Users\zagor\source\repos\main-cs\model-1\obj\Debug\model-1.dll
+C:\Users\zagor\source\repos\main-cs\model-1\obj\Debug\model-1.pdb

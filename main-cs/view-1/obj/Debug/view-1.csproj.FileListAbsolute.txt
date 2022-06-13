@@ -1,0 +1,13 @@
+C:\Users\zagor\source\repos\main-cs\view-1\bin\Debug\view-1.exe.config
+C:\Users\zagor\source\repos\main-cs\view-1\bin\Debug\view-1.exe
+C:\Users\zagor\source\repos\main-cs\view-1\bin\Debug\view-1.pdb
+C:\Users\zagor\source\repos\main-cs\view-1\bin\Debug\model-1.dll
+C:\Users\zagor\source\repos\main-cs\view-1\bin\Debug\model-1.pdb
+C:\Users\zagor\source\repos\main-cs\view-1\obj\Debug\view-1.csproj.AssemblyReference.cache
+C:\Users\zagor\source\repos\main-cs\view-1\obj\Debug\view_1.Form1.resources
+C:\Users\zagor\source\repos\main-cs\view-1\obj\Debug\view_1.Properties.Resources.resources
+C:\Users\zagor\source\repos\main-cs\view-1\obj\Debug\view-1.csproj.GenerateResource.cache
+C:\Users\zagor\source\repos\main-cs\view-1\obj\Debug\view-1.csproj.CoreCompileInputs.cache
+C:\Users\zagor\source\repos\main-cs\view-1\obj\Debug\view-1.csproj.CopyComplete
+C:\Users\zagor\source\repos\main-cs\view-1\obj\Debug\view-1.exe
+C:\Users\zagor\source\repos\main-cs\view-1\obj\Debug\view-1.pdb

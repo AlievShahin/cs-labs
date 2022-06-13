@@ -1,0 +1,30 @@
+C:\Users\zagor\source\repos\main-cs\view-2\bin\Debug\view-2.exe.config
+C:\Users\zagor\source\repos\main-cs\view-2\bin\Debug\view-2.exe
+C:\Users\zagor\source\repos\main-cs\view-2\bin\Debug\view-2.pdb
+C:\Users\zagor\source\repos\main-cs\view-2\bin\Debug\model-2.dll
+C:\Users\zagor\source\repos\main-cs\view-2\bin\Debug\model-2.pdb
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view-2.csproj.AssemblyReference.cache
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view_2.Form1.resources
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view_2.Form2.resources
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view_2.Form3.resources
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view_2.Properties.Resources.resources
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view-2.csproj.GenerateResource.cache
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view-2.csproj.CoreCompileInputs.cache
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view-2.csproj.CopyComplete
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view-2.exe
+C:\Users\zagor\source\repos\main-cs\view-2\obj\Debug\view-2.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\bin\Debug\view-2.exe.config
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\bin\Debug\view-2.exe
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\bin\Debug\view-2.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\bin\Debug\model-2.dll
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\bin\Debug\model-2.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view-2.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view_2.Form1.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view_2.Form2.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view_2.Form3.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view_2.Properties.Resources.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view-2.csproj.GenerateResource.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view-2.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view-2.csproj.CopyComplete
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view-2.exe
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-2\obj\Debug\view-2.pdb
