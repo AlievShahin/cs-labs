@@ -1,0 +1,15 @@
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\bin\Debug\ShipView.exe.config
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\bin\Debug\ShipView.exe
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\bin\Debug\ShipView.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\bin\Debug\ShipModel.dll
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\bin\Debug\ShipModel.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\view-3.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\ShipView.AddEdit.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\ShipView.Properties.Resources.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\ShipView.setCargo.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\ShipView.ShipWork.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\view-3.csproj.GenerateResource.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\view-3.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\view-3.csproj.CopyComplete
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\ShipView.exe
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-3\obj\Debug\ShipView.pdb
