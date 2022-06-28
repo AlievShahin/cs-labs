@@ -1,0 +1,13 @@
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\bin\Debug\ShipsView.exe.config
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\bin\Debug\ShipsView.exe
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\bin\Debug\ShipsView.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\bin\Debug\ShipsModel.dll
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\bin\Debug\ShipsModel.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\obj\Debug\view-4.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\obj\Debug\ShipsView.Form1.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\obj\Debug\ShipsView.Properties.Resources.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\obj\Debug\view-4.csproj.GenerateResource.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\obj\Debug\view-4.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\obj\Debug\view-4.csproj.CopyComplete
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\obj\Debug\ShipsView.exe
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\view-4\obj\Debug\ShipsView.pdb

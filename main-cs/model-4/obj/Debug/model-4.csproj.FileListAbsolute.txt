@@ -1,0 +1,6 @@
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\model-4\bin\Debug\ShipsModel.dll
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\model-4\bin\Debug\ShipsModel.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\model-4\obj\Debug\model-4.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\model-4\obj\Debug\model-4.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\model-4\obj\Debug\ShipsModel.dll
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\шахин\main-cs\model-4\obj\Debug\ShipsModel.pdb
